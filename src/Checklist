@@ -1,0 +1,42 @@
+-------START UP-------
+    -[x] npm install
+    -[x] npm run server
+    -[x] npm run client
+-------DATABASE--------
+    -[x] Create database "prime_feedback"
+    -[x] Copy sql file in to database query
+    -[] Save feedback to database
+    -[] *STRETCH* GET route to display the database on the /admin page
+    -[] *STRETCH* PUT route for use to edit values
+    -[] *STRETCH* DELETE route for /admin page
+-------SERVER-------
+    -[] Get route to display data
+    -[] POST route to database to store data
+    -[] Router for feedback page
+    -[] Data sent to data base on Submit
+-------CLIENT-------
+    -[] Import all components
+    -[] Decide on 1 reducer or 4 reducers
+        -[] Feedback needs to be stored in reducer/reducers to carry across all pages
+        -[] *STRETCH* Ability to edit reducer/reducers
+    -[] Create components for each page, 6 in total
+        -[] Feeling component (pg 1 of 4)
+            -[] Input for enter data for reducers
+            -[] Rate 1 - 5
+            -[] Next button should take user to next page (history for this)
+            -[] Validation required for this page
+        -[] Understanding component (pg 2 of 4)
+            -[] Input for enter data for reducers
+            -[] Rate 1 - 5
+            -[] Next button should take user to next page (history for this)
+            -[] Validation required for this page
+         -[] Support component (pg 3 of 4)
+            -[] Input for enter data for reducers
+            -[] Rate 1 - 5
+            -[] Next button should take user to next page (history for this)
+            -[] Validation required for this page
+        -[] Support component (pg 4 of 4)
+            -[] Input for enter data for reducers
+            -[] Rate 1 - 5
+            -[] Next button should take user to next page (history for this)
+            -[] Validation required for this page

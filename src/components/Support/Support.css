@@ -1,0 +1,26 @@
+body {
+  background-color: darkslategrey;
+}
+.card-actions-container {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: auto;
+}
+.button:hover {
+  background-color: #000000; /* Light gray for demonstration purposes */
+}
+.card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease-in-out;
+}
+/* .card-actions-container .MuiButton-root.button-hover:hover {
+    background-color: #e0e0e0;
+  } */
+.MuiCard-root {
+  background-color: #e8f5e9; /* This is a light green shade */
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  height: 50px;
+  width: 35px;
+}
