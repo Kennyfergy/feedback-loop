@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> e8a2c55ab9c2bc153751c8561e605bf0a5f32ce2
 # Feedback Loop
 
 ## Description
@@ -9,6 +5,7 @@
 Feedback Loop is a web-based application designed to gather and present feedback. Built using Javascript, React, CSS, HTML, and Redux, it offers a blend of server-side logic and client-side interactions. The main purpose of this project was to streamline the feedback process by collecting user responses and presenting them in a user-friendly manner.
 
 ## Screen Shot
+
 <img width="1294" alt="Screenshot 2023-10-02 at 8 53 53 AM" src="https://github.com/Kennyfergy/feedback-loop/assets/121765690/eb70de47-6d23-4aa7-af93-ea9b1ddb4f8e">
 <img width="1293" alt="Screenshot 2023-10-02 at 8 53 42 AM" src="https://github.com/Kennyfergy/feedback-loop/assets/121765690/19d4c0dc-4365-41ad-9ad5-0e0a1419b626">
 <img width="1297" alt="Screenshot 2023-10-02 at 8 53 13 AM" src="https://github.com/Kennyfergy/feedback-loop/assets/121765690/6dc6d296-7a15-4ce1-ac9a-d5636ffe8138">
