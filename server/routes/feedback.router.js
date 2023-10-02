@@ -27,6 +27,15 @@ router.post("/", (req, res) => {
     console.log("Missing data in request");
     res.sendStatus(400);
     return;
+  } else if (
+    typeof feedback.feeling !== "number" ||
+    typeof feedback.understanding !== "number" ||
+    typeof feedback.understanding !== "number" ||
+    typeof feedback.comments !== "string"
+  ) {
+    console.log("Missing data in request");
+    res.sendStatus(400);
+    return;
   }
   pool
     .query(queryText, [
