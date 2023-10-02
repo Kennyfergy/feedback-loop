@@ -53,7 +53,7 @@ Feedback Loop is a web-based application designed to gather and present feedback
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](LICENSE)
 
 ## Acknowledgement
 
