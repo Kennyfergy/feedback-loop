@@ -6,6 +6,7 @@ import { HashRouter as Router, Route, Link } from "react-router-dom";
 // import Grid from "@mui/material/Grid";
 import Container from "@mui/material/Container";
 //
+import Header from "../Header/Header";
 import Feelings from "../Feelings/Feelings";
 import Understanding from "../Understanding/Understanding";
 import Support from "../Support/Support";
@@ -18,10 +19,7 @@ function App() {
     <Container>
       <Router>
         <div className="App">
-          <header className="App-header">
-            <h1 className="App-title">Feedback!</h1>
-            <h4>Don't forget it!</h4>
-          </header>
+          <Header />
           <div className="nav">
             <Link to="/">Feeling</Link>
             <Link to="/understanding">Understanding</Link>
