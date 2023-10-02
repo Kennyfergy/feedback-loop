@@ -1,7 +1,8 @@
 ![MIT LICENSE](https://img.shields.io/github/license/<Kennyfergy>/feedback_loop.svg?style=flat-square)
 ![REPO SIZE](https://img.shields.io/github/repo-size/https%3A%2F%2Fgithub.com%2FKennyfergy%2Fredux-feedback-loop%23feedback-loop/:repo)
 ![TOP LANGUAGE](https://img.shields.io/github/languages/top/https%3A%2F%2Fgithub.com%2FKennyfergy%2Fredux-feedback-loop/:repo)
-![FORKS](https://img.shields.io/github/forks/https%3A%2F%2Fgithub.com%2FKennyfergy%2Fredux-feedback-loop/:repo)
+![FORKS]([https://img.shields.io/github/forks/https%3A%2F%2Fgithub.com%2FKennyfergy%2Fredux-feedback-loop/:repo](https://img.shields.io/github/forks/https%3A%2F%2Fgithub.com%2FKennyfergy%2F/https%3A%2F%2Fgithub.com%2FKennyfergy%2Ffeedback-loop
+))
 
 # Feedback Loop
 
