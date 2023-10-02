@@ -51,10 +51,6 @@ Feedback Loop is a web-based application designed to gather and present feedback
 - Nodemon (for development)
 - VScode
 
-## Snapshots
-
-![img1](public/images/Screenshot 2023-10-02 at 8.53.13 AM.png)
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
