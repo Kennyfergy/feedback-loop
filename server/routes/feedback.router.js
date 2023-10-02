@@ -23,6 +23,11 @@ router.post("/", (req, res) => {
       VALUES
         ($1, $2, $3, $4);
     `;
+  if ((!feedback.feeling, !feedback.understanding, !feedback.support)) {
+    console.log("Missing data in request");
+    res.sendStatus(400);
+    return;
+  }
   pool
     .query(queryText, [
       feedback.feeling,
